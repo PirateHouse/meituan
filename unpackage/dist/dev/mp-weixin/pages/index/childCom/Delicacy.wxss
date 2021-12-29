@@ -1,0 +1,46 @@
+
+.prefer-posi.data-v-07b1aa56{
+	position: relative;
+	left: 0;
+	right: 0;
+	width: 100%;
+	z-index: 99;
+}
+.delica-view.data-v-07b1aa56{
+	display: flex;
+	justify-content: space-between;
+	align-items: center;
+	font-size: 30rpx;
+	color: #666666;
+	height: 70rpx;
+	padding: 0 15rpx;
+	background: #FFFFFF;
+}
+.delica-list.data-v-07b1aa56{
+	display: flex; 
+	align-items: center;
+}
+.delica-img.data-v-07b1aa56{
+	width:30rpx;
+	height:30rpx;
+}
+.Choice.data-v-07b1aa56{
+font-size: 28rpx; 
+background: #f8f8f8;
+height: 55rpx;
+line-height: 55rpx;
+color: #666666;
+width: calc((100% / 3) - 15px) !important;
+margin: 7.5px;
+text-align: center;
+display: block;
+border-radius: 5rpx;
+}
+.sortlist-view.data-v-07b1aa56{
+height: 700rpx; 
+overflow: hidden;
+overflow-y: scroll;
+position: relative;
+}
+.yin.data-v-07b1aa56{background: rgba(0,0,0,0.5); position: fixed; top: 0; left: 0; right: 0; bottom: 0;}
+

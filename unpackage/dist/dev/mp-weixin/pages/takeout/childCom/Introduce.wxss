@@ -1,0 +1,15 @@
+
+.introduce-back.data-v-5d3f0496{background: #fafafa; height: 100%; overflow-y: auto;}
+image.data-v-5d3f0496{width: 38rpx !important; height: 38rpx !important;
+}
+text.data-v-5d3f0496{display: block; font-size: 30rpx;}
+.introduce-view.data-v-5d3f0496{
+background: #ffffff;
+display: flex;
+align-items: center;
+height: 110rpx;
+margin: 20rpx 0;
+padding: 0 20rpx;}
+.introduce-view view.data-v-5d3f0496:nth-child(1){width: 38rpx; height: 38rpx;
+padding-right: 20rpx;}
+

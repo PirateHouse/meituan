@@ -1,0 +1,8 @@
+{
+  "component": true,
+  "usingComponents": {
+    "merchant-search": "/pages/components/MerchantScreening/index",
+    "box-position": "/pages/components/BoxPosition/index",
+    "screen-search": "/pages/components/screenSearch/index"
+  }
+}

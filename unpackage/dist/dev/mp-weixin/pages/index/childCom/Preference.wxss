@@ -1,0 +1,29 @@
+
+.prefer_title.data-v-44d0f79f{
+	margin:30rpx 0;
+}
+.scroll-item.data-v-44d0f79f{
+}
+.prefer-dis.data-v-44d0f79f{
+	display: flex;
+	justify-content: space-between;
+	align-items: center;
+}
+.scroll-img.data-v-44d0f79f{
+	width: 300rpx;
+	height: 200rpx;
+	border-radius: 8rpx;
+	border:5rpx solid #FFFFFF;
+}
+.scroll-title.data-v-44d0f79f{
+	height: 45rpx;
+	line-height: 45rpx;
+	padding-left: 20rpx;
+	font-size:30rpx;
+}
+.scroll-lable.data-v-44d0f79f{
+	padding-left: 20rpx;
+	font-size: 27rpx;
+	color: #9c9c9c
+}
+

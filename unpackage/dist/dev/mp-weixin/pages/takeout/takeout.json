@@ -1,0 +1,10 @@
+{
+  "navigationBarTitleText": "商品详情",
+  "usingComponents": {
+    "business": "/pages/takeout/childCom/basiness",
+    "tabs": "/pages/takeout/childCom/tabs",
+    "ordering": "/pages/takeout/childCom/ordering",
+    "message": "/pages/takeout/childCom/message",
+    "introduce": "/pages/takeout/childCom/Introduce"
+  }
+}

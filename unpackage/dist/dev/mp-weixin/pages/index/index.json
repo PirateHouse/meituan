@@ -1,0 +1,10 @@
+{
+  "navigationBarTitleText": "美团外卖",
+  "usingComponents": {
+    "search": "/pages/index/childCom/Search",
+    "preference": "/pages/index/childCom/Preference",
+    "title": "/pages/index/childCom/Title",
+    "delicacy": "/pages/index/childCom/Delicacy",
+    "takeout": "/pages/index/childCom/Takeout"
+  }
+}

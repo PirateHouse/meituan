@@ -1,0 +1,29 @@
+
+.basiness.data-v-6816cee5{
+	background: linear-gradient(to top, #ffe566 10%, #ffd300 100%);
+	padding: 20rpx 10rpx;
+	display: flex;
+	align-items: center;
+	font-size: 27rpx;
+}
+.basiness_img.data-v-6816cee5{
+	width: 150rpx;
+	height:120rpx;
+	border-radius: 10rpx;
+}
+.basiness_text.data-v-6816cee5{
+	padding:20rpx;
+	display: block;
+	font-size: 37rpx;
+}
+.text-view.data-v-6816cee5{
+	padding-left: 20rpx;
+	display: flex;
+	align-items: center;
+}
+.text-img.data-v-6816cee5{
+	margin-top: ;
+	height:37rpx;
+	width: 37rpx;
+}
+

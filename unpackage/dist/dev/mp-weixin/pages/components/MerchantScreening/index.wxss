@@ -1,0 +1,16 @@
+
+.sortlist.data-v-7a3390b1{
+	background: #ffffff;
+}
+.sort-text.data-v-7a3390b1{
+	padding: 0 15rpx;
+	display: block;
+	font-size: 30rpx;
+	height: 70rpx;
+	line-height: 70rpx;
+	border-top: 1rpx solid #ededed;
+}
+.activeb.data-v-7a3390b1{
+	color: #f89903 ;
+}
+
